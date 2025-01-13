@@ -8,22 +8,10 @@
 - ❤️ **Loveable**: Software should empower users, leaving them feeling confident—not overwhelmed.
 
 ### 2025 Goals
-✅ Start working on a [side project](https://github.com/JacobSchroder/taskalendar)
-
-✅ Update my Github Profile with a `Readme.md`
-
-⏳ Engage more in the developer community
-
-⏳ Start a tech blog
+- ✅ Start working on a [side project](https://github.com/JacobSchroder/taskalendar)
+- ✅ Update my Github Profile with a `Readme.md`
+- ⏳ Engage more in the developer community
+- ⏳ Start a tech blog
 
 ### My Go-To Tech Stack ATM  
-- **Framework**: Next.js  
-- **Database**: PostgreSQL  
-- **ORM**: Drizzle ORM  
-- **Validation**: Zod  
-- **API**: tRPC  
-- **UI Components**: shadcn/UI  
-- **Styling**: Tailwind CSS  
-- **State Management**: @tanstack/query  
-- **Form Handling**: @tanstack/form  
-- **Data Tables**: @tanstack/table  
+Next.js · PostgreSQL · Drizzle ORM · Zod · tRPC · shadcn/UI · Tailwind CSS · @tanstack/query · @tanstack/form · @tanstack/table
