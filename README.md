@@ -13,7 +13,5 @@
 - ⏳ Engage more in the developer community
 - ⏳ Start a tech blog
 
-### [Full resume here (pdf)](/resume.pdf)
-
 ### My Go-To Tech Stack ATM  
 Next.js · PostgreSQL · Drizzle ORM · Zod · tRPC · shadcn/UI · Tailwind CSS · @tanstack/query · @tanstack/form · @tanstack/table
