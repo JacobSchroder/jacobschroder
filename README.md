@@ -8,10 +8,10 @@
 - ❤️ **Loveable**: Software should empower users, leaving them feeling confident—not overwhelmed.
 
 ### 2025 Goals
-- ✅ Start working on a [side project](https://github.com/JacobSchroder/taskalendar)
-- ✅ Learn Golang
-- ⏳ Engage more in the developer community
-- ⏳ Start a tech blog
+- [x] Start working on a [side project](https://github.com/JacobSchroder/taskalendar)
+- [x] Learn Golang
+- [ ] Engage more in the developer community
+- [ ] Start a tech blog
 
 ### My Go-To Tech Stack ATM  
 Next.js · PostgreSQL · Drizzle ORM · Zod · tRPC · shadcn/UI · Tailwind CSS · @tanstack/query · @tanstack/form · @tanstack/table
