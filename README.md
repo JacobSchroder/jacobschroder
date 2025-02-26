@@ -9,7 +9,7 @@
 
 ### 2025 Goals
 - ✅ Start working on a [side project](https://github.com/JacobSchroder/taskalendar)
-- ✅ Update my Github Profile with a `Readme.md`
+- ✅ Learn Golang
 - ⏳ Engage more in the developer community
 - ⏳ Start a tech blog
 
